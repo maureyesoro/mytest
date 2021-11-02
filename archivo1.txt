@@ -1,2 +1,3 @@
 Mau modificó el archivo añadiendo una linea
-Adios
+Adios 
+Linea añadida en rama1
